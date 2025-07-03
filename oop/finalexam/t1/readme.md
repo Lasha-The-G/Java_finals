@@ -15,3 +15,6 @@ Step 2 - Modify list3 (Error handling):
 - For each index in sorted list1:
     - If the index is valid (within bounds of list3), remove the element.
     - Otherwise, do nothing.
+
+![screenshot_03072025_101155](https://github.com/user-attachments/assets/5eca8946-3698-4a42-8d50-83cfb8389c7d)
+
